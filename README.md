@@ -39,12 +39,12 @@ $ pip install Pillow
 4. outputフォルダ内に日付フォルダができて、その中に切り抜き画像が出力される  
 
 ### ◆隠し機能  
- - Tesseractをインストール
- - Tesseractの日本語学習データファイル(jpn.traineddata)を導入
- - Tesseractをpythonで利用可能にするpytesseractをインストール(pip使える)
- - 本ツールのconfig.jsonファイル内の「"UseOCR": false」を「"UseOCR": true」に変更する
-上記を全て満たすことで、スキル画像から読み取った文字データをテキストに出力する機能が解放されます。
-導入がめどいかつ精度がよくないので今のところ封印しています。
+ - Tesseractをインストール  
+ - Tesseractの日本語学習データファイル(jpn.traineddata)を導入  
+ - Tesseractをpythonで利用可能にするpytesseractをインストール(pip使える)  
+ - 本ツールのconfig.jsonファイル内の「"UseOCR": false」を「"UseOCR": true」に変更する  
+上記を全て満たすことで、スキル画像から読み取った文字データをテキストに出力する機能が解放されます。  
+導入がめどいかつ精度がよくないので今のところ封印しています。  
 
 ### ◆お問い合わせ  
 ツールを配ったりするのが初めてなので不備があればエラー内容を添えて連絡ください。  
